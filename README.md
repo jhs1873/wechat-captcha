@@ -16,7 +16,7 @@
             width: this.data.cvs.width,
             height: this.data.cvs.height,
             code: "afced"
-        );
+        })
     },
     //刷新图形验证码
     onTap(){
